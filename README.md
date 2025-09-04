@@ -41,9 +41,9 @@ A self-driven **Frontend Web Developer** from **Islamabad, Pakistan** 🇵🇰, 
 
 ## 📬 Let’s Connect
 
-- 💼 [LinkedIn](https://linkedin.com/in/abdulfattahnizamani)
-- 🧑‍💻 GitHub: [@abdulfattahnizamani](https://github.com/abdulfattahnizamani)
-- 📩 Email: **abdulfattahnizamani266@gmail.com**
+- 💼 [LinkedIn](https://linkedin.com/in/fattahniz)
+- 🧑‍💻 [GitHub](https://github.com/fattahniz)
+- 📩 [Email]**abdulfattahnizamani266@gmail.com**
 
 ---
 
