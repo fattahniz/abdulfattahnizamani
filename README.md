@@ -7,14 +7,14 @@ Welcome to my GitHub profile! I am a **Full-Stack Web Developer** passionate abo
 
 ## 🚀 Key Projects
 
-### 1. [Chat App](https://github.com/fattahniz/chat-app)
+### 1. [Chat App](https://github.com/fattahniz/chatApp.git)
 A real-time messaging application built with **Node.js**, **Express**, and **Socket.io**. Users can chat with others in real-time, and messages are synchronized instantly across all connected clients.
 
 **Tech:** Node.js, Express, Socket.io, CSS
 
 ---
 
-### 2. [Real-Time Tracker](https://github.com/fattahniz/realtime-tracker)
+### 2. [Real-Time Tracker](https://github.com/fattahniz/realtime_tracker.git)
 A live location tracking application where users can see movements on a map in real-time using **WebSockets**. Built with **Node.js**, **Express**, and **Leaflet.js** for map visualization.
 
 **Tech:** Node.js, Express, Socket.io, Leaflet.js, CSS
@@ -73,10 +73,8 @@ A live location tracking application where users can see movements on a map in r
 
 ## 🎯 Goals
 
-- 🚀 Land a **Frontend Developer Internship**
-- 📚 Continue building 30+ mini projects
 - 🌐 Master React and modern JavaScript frameworks
-- 🤝 Collaborate on open-source and real-world applications
+- 🤝 Collaborate on **open-source and real-world** applications
 
 - ## 📈 GitHub Stats
 
