@@ -4,6 +4,22 @@ Welcome to my GitHub profile! I am a **Full-Stack Web Developer** passionate abo
 
 ---
 
+
+## 🚀 Key Projects
+
+### 1. [Chat App](https://github.com/fattahniz/chat-app)
+A real-time messaging application built with **Node.js**, **Express**, and **Socket.io**. Users can chat with others in real-time, and messages are synchronized instantly across all connected clients.
+
+**Tech:** Node.js, Express, Socket.io, CSS
+
+---
+
+### 2. [Real-Time Tracker](https://github.com/fattahniz/realtime-tracker)
+A live location tracking application where users can see movements on a map in real-time using **WebSockets**. Built with **Node.js**, **Express**, and **Leaflet.js** for map visualization.
+
+**Tech:** Node.js, Express, Socket.io, Leaflet.js, CSS
+
+
 ## 🚀 Tech Stacks
 
   **Languages**
@@ -19,6 +35,7 @@ Welcome to my GitHub profile! I am a **Full-Stack Web Developer** passionate abo
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
