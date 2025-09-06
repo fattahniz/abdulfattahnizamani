@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I am a **Full-Stack Web Developer** passionate abo
 - 🔭 Working as a **Full-Stack Developer**
 - 🌱 Learning **Backend Optimization**, **Backend APIs**, and **Advanced Backend Conepts**
 - 💡 Building **responsive UIs**, **e-commerce apps**, and **AI dashboards**
-- ⚙️ Daily tools: `React.js`, `Tailwind CSS`, `JavaScript`, `Express.js`
+- ⚙️ Daily tools: `React.js`, `Tailwind CSS`, `JavaScript`, `Express.js`, `TypeScript`
 - 💬 Ask me about **O Auth**, **JWT Auth**, **Responsive UIs**, or anything frontend! and backend!
 
   
