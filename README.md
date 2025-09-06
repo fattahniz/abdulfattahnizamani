@@ -1,20 +1,44 @@
 # 👋 Hi, I'm Abdulfattah Nizamani
 
-A self-driven **Frontend Web Developer** from **Islamabad, Pakistan** 🇵🇰, passionate about creating clean, user-friendly interfaces and solving real-world problems through code. I'm currently seeking **Frontend Developer Internship** opportunities to grow and contribute to real projects.
+Welcome to my GitHub profile! I am a **Full-Stack Web Developer** passionate about building scalable, interactive, and real-time web applications.
 
 ---
 
-## 🚀 My Tech Stack
+## 🚀 Tech Stacks
 
-**Languages & Tools:**
+  **Languages**
 
 ![HTML5](https://img.shields.io/badge/HTML5-e34c26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-264de4?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=sqlite&logoColor=white)
+
+   **Tools & Databases**
+   
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 
+   **Frameworks & Libraries**
+   
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)   
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Leaflet](https://img.shields.io/badge/Leaflet-4D9931?style=flat&logo=leaflet&logoColor=white)
+
+   **Others**
+   
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat&logo=postman&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat&logo=socket.io&logoColor=white)   
+![OpenStreetMap](https://img.shields.io/badge/OpenStreetMap-7AB800?style=flat&logo=openstreetmap&logoColor=white)
+![WeatherAPI](https://img.shields.io/badge/WeatherAPI-00ADEF?style=flat&logo=weatherapi&logoColor=white)
+
+ 
 ---
 
 ## 📂 Featured Projects
@@ -37,6 +61,10 @@ A self-driven **Frontend Web Developer** from **Islamabad, Pakistan** 🇵🇰, 
 - 🌐 Master React and modern JavaScript frameworks
 - 🤝 Collaborate on open-source and real-world applications
 
+- ## 📈 GitHub Stats
+
+![Abdulfattah's GitHub stats](https://github-readme-stats.vercel.app/api?username=fattahniz&show_icons=true&theme=radical)
+
 ---
 
 ## 📬 Let’s Connect
@@ -45,7 +73,10 @@ A self-driven **Frontend Web Developer** from **Islamabad, Pakistan** 🇵🇰, 
 - 🧑‍💻 [GitHub](https://github.com/fattahniz)
 - 📩 [Email](https://mail.google.com/mail/?view=cm&fs=1&to=abdulfattahnizamani266@gmail.com)
 
----
+
+
+`react` `express` `nodejs` `rest-api` `websockets` `socket.io` `mongodb` `mysql` `postgresql` `fullstack` `frontend` `backend` `real-time-app` `chat-app` `live-tracker`
+
 
 ## 🙌 Thanks for Visiting!
 
