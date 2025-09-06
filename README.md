@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I am a **Full-Stack Web Developer** passionate about building scalable, interactive, and real-time web applications.
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=38BDF8&center=true&vCenter=true&width=435&lines=Frontend+Developer;Backend+Developer;FullStack+Developer;React.js+%7C+Tailwind+CSS+%7C+JavaScript;SQL+%7C+Express.js+%7C+RestAPIs+JWTAuth;Building+Fast+and+Smart+Web+Experiences)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=38BDF8&center=true&vCenter=true&width=435&lines=Frontend+Developer+Backend+Developer;FullStack+Developer;React.js+%7C+Tailwind+CSS+%7C+JavaScript;SQL+%7C+Express.js+%7C+RestAPIs+JWTAuth;Building+Fast+and+Smart;Web+Experiences)
 
 ---
 
