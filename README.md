@@ -80,6 +80,28 @@ A live location tracking application where users can see movements on a map in r
 
 ![Abdulfattah's GitHub stats](https://github-readme-stats.vercel.app/api?username=fattahniz&show_icons=true&theme=radical)
 
+<p align="center">
+  <marquee behavior="scroll" direction="left" scrollamount="10" style="font-size:24px; color:#ff5733;">
+    Frontend Developer 💻 | Full-Stack Developer 🌐 | Node.js | React.js | Express | MongoDB | PostgreSQL | Socket.io | API Integration
+  </marquee>
+</p>
+
+<h2 align="center">
+  <span style="background: linear-gradient(to right, #ff6ec4, #7873f5, #4ade80); -webkit-background-clip: text; color: transparent; font-size:28px; font-weight:bold;">
+    Frontend Developer 💻 | Full-Stack Developer 🌐 | React | Node.js | MongoDB | Socket.io
+  </span>
+</h2>
+
+
+<div align="center" style="overflow-x:auto; white-space: nowrap;">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" /> 
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
+</div>
+
 ---
 
 ## 📬 Let’s Connect
