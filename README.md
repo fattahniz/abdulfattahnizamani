@@ -2,7 +2,25 @@
 
 Welcome to my GitHub profile! I am a **Full-Stack Web Developer** passionate about building scalable, interactive, and real-time web applications.
 
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=38BDF8&center=true&vCenter=true&width=435&lines=Frontend+Developer+💻+Backend+Developer+💻+FullStack+Developer+💻;React.js+%7C+Tailwind+CSS+%7C+JavaScript;SQL+%7C+Express.js+%7C+RestAPIs+JWTAuth;Building+Fast+and+Smart+Web+Experiences)
+
 ---
+
+## 🌟 About Me
+
+- 🔭 Working as a **Full-Stack Developer**
+- 🌱 Learning **Backend Optimization**, **Backend APIs**, and **Advanced Backend Conepts**
+- 💡 Building **responsive UIs**, **e-commerce apps**, and **AI dashboards**
+- ⚙️ Daily tools: `React.js`, `Tailwind CSS`, `JavaScript`, `Express.js`
+- 💬 Ask me about **O Auth**, **JWT Auth**, **Responsive UIs**, or anything frontend! and backend!
+
+  
+## 🔥 Currently Exploring
+
+- 🤖 Building **AI Agents** with OpenAI Agents SDKs
+- ⚙️ Creating **REST APIs** with Node.js & MongoDB
+- 💬 Integrating secure **auth & payments** (Clerk + Stripe)
+- 🎯 Designing clean & fast UIs for real-world use cases
 
 
 ## 🚀 Key Projects
@@ -20,7 +38,7 @@ A live location tracking application where users can see movements on a map in r
 **Tech:** Node.js, Express, Socket.io, Leaflet.js, CSS
 
 
-## 🚀 Tech Stacks
+## 🛠 Tech Stacks
 
   **Languages**
 
@@ -80,16 +98,27 @@ A live location tracking application where users can see movements on a map in r
 
 ![Abdulfattah's GitHub stats](https://github-readme-stats.vercel.app/api?username=fattahniz&show_icons=true&theme=radical)
 
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fattahniz&layout=compact&theme=radical" width="35%" />
+</p>
 
 ---
 
 ## 📬 Let’s Connect
 
-- 💼 [LinkedIn](https://linkedin.com/in/fattahniz)
-- 🧑‍💻 [GitHub](https://github.com/fattahniz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/fattahniz)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/fattahniz)
+[![Gmail](https://img.shields.io/badge/Gmail-blue?style=for-the-badge&logo=Gmail)](https://mail.google.com/mail/?view=cm&fs=1&to=abdulfattahnizamani266@gmail.com)
+
 - 📩 [Email](https://mail.google.com/mail/?view=cm&fs=1&to=abdulfattahnizamani266@gmail.com)
 
+
+## 💡 Beyond the Code
+
+> I don’t just write code —  
+> I design experiences, solve real-world problems, and bring ideas to life with clean architecture and creative vision.
+
+![GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 
 `react` `express` `nodejs` `rest-api` `websockets` `socket.io` `mongodb` `mysql` `postgresql` `fullstack` `frontend` `backend` `real-time-app` `chat-app` `live-tracker`
