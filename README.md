@@ -110,8 +110,6 @@ A live location tracking application where users can see movements on a map in r
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/fattahniz)
 [![Gmail](https://img.shields.io/badge/Gmail-blue?style=for-the-badge&logo=Gmail)](https://mail.google.com/mail/?view=cm&fs=1&to=abdulfattahnizamani266@gmail.com)
 
-- 📩 [Email](https://mail.google.com/mail/?view=cm&fs=1&to=abdulfattahnizamani266@gmail.com)
-
 
 ## 💡 Beyond the Code
 
