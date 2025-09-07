@@ -86,12 +86,12 @@ A live location tracking application where users can see movements on a map in r
 
 | Project | Live Demo | GitHub Repo |
 |--------|------------|-------------|
-| 🎧 **Music Player** – A UI music player inspired by Spotify | [Live]([https://music-player-abdulfattahnizamani.vercel.app](https://music-player-plum-zeta-80.vercel.app/) | [Repo](https://github.com/abdulfattahnizamani/music-player) |
-| 🌤️ **Weather App** – Fetches live weather using OpenWeather API | [Live]([https://weather-app-abdulfattahnizamani.vercel.app](https://weather-app-tau-indol-29.vercel.app/) | [Repo](https://github.com/abdulfattahnizamani/weather-app) |
-| ✅ **To-Do List App** – Task manager with local storage | [Live]([https://to-do-list-app-abdulfattahnizamani.vercel.app](https://to-do-list-app-flax-iota.vercel.app/) | [Repo](https://github.com/abdulfattahnizamani/to-do-list-app) |
-| 🔍 **Image Search Engine** – Uses Unsplash API to fetch images | [Live]([https://image-search-engine-abdulfattahnizamani.vercel.app](https://image-search-engine-smoky.vercel.app/) | [Repo](https://github.com/abdulfattahnizamani/image-search-engine) |
-| 💰 **Crypto Website** – UI to display cryptocurrency prices | [Live]([https://crypto-website-abdulfattahnizamani.vercel.app](https://crypto-website-seven-eta.vercel.app/) | [Repo](https://github.com/abdulfattahnizamani/crypto-website) |
-| 🛍️ **Product Page** – A stylish, responsive product landing page | [Live]([https://product-page-abdulfattahnizamani.vercel.app](https://product-page-rho-one.vercel.app/) | [Repo](https://github.com/abdulfattahnizamani/product-page) |
+| 🎧 **Music Player** – A UI music player inspired by Spotify | [Live](https://music-player-plum-zeta-80.vercel.app/) | [Repo](https://github.com/abdulfattahnizamani/music-player) |
+| 🌤️ **Weather App** – Fetches live weather using OpenWeather API | [Live](https://weather-app-tau-indol-29.vercel.app/) | [Repo](https://github.com/abdulfattahnizamani/weather-app) |
+| ✅ **To-Do List App** – Task manager with local storage | [Live](https://to-do-list-app-flax-iota.vercel.app/) | [Repo](https://github.com/abdulfattahnizamani/to-do-list-app) |
+| 🔍 **Image Search Engine** – Uses Unsplash API to fetch images | [Live](https://image-search-engine-smoky.vercel.app/) | [Repo](https://github.com/abdulfattahnizamani/image-search-engine) |
+| 💰 **Crypto Website** – UI to display cryptocurrency prices | [Live](https://crypto-website-seven-eta.vercel.app/) | [Repo](https://github.com/abdulfattahnizamani/crypto-website) |
+| 🛍️ **Product Page** – A stylish, responsive product landing page | [Live](https://product-page-rho-one.vercel.app/) | [Repo](https://github.com/abdulfattahnizamani/product-page) |
 
 ---
 
