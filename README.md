@@ -1,4 +1,4 @@
-# _👋 Hi, I'm Abdulfattah_ Nizamani_
+# _👋 Hi, I'm Abdulfattah_Nizamani_
 
 Welcome to my GitHub profile! I am a **Full-Stack Web Developer** passionate about building scalable, interactive, and real-time web applications.
 
