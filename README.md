@@ -106,7 +106,7 @@ A live location tracking application where users can see movements on a map in r
 ![Abdulfattah's GitHub stats](https://github-readme-stats.vercel.app/api?username=fattahniz&show_icons=true&theme=radical)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fattahniz&layout=compact&theme=radical" width="35%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fattahniz&layout=compact&theme=radical" width="45%" />
 </p>
 
 ---
