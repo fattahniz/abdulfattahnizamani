@@ -2,15 +2,9 @@
 
 Welcome to my GitHub profile! I am a **Full-Stack Web Developer** passionate about building scalable, interactive, and real-time web applications.
 
-
-
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=38BDF8&center=true&vCenter=true&width=435&lines=Frontend+Developer+Backend+Developer;FullStack+Developer;React.js+%7C+Tailwind+CSS+%7C+JavaScript;SQL+%7C+Express.js+%7C+RestAPIs+JWTAuth;Building+Fast+and+Smart;Web+Experiences)
 
----
-
-
 **Building real-time web apps & open-source projects**
-
 
 ## 🌟 About Me
 
@@ -20,14 +14,12 @@ Welcome to my GitHub profile! I am a **Full-Stack Web Developer** passionate abo
 - ⚙️ Daily tools: `React.js`, `Tailwind CSS`, `JavaScript`, `Express.js`, `TypeScript`
 - 💬 Ask me about **O Auth**, **JWT Auth**, **Responsive UIs**, or anything frontend! and backend!
 
-  
 ## 🔥 Currently Exploring
 
 - 🤖 Building **AI Agents** with OpenAI Agents SDKs
 - ⚙️ Creating **REST APIs** with Node.js & MongoDB
 - 💬 Integrating secure **auth & payments** (Clerk + Stripe)
 - 🎯 Designing clean & fast UIs for real-world use cases
-
 
 ## 🚀 Key Projects
 
@@ -36,13 +28,10 @@ A real-time messaging application built with **Node.js**, **Express**, and **Soc
 
 **Tech:** Node.js, Express, Socket.io, CSS
 
----
-
 ### 2. [Real-Time Tracker](https://github.com/fattahniz/realtime_tracker.git)
 A live location tracking application where users can see movements on a map in real-time using **WebSockets**. Built with **Node.js**, **Express**, and **Leaflet.js** for map visualization.
 
 **Tech:** Node.js, Express, Socket.io, Leaflet.js, CSS
-
 
 ## 🛠 Tech Stacks
 
@@ -79,9 +68,6 @@ A live location tracking application where users can see movements on a map in r
 ![OpenStreetMap](https://img.shields.io/badge/OpenStreetMap-7AB800?style=flat&logo=openstreetmap&logoColor=white)
 ![WeatherAPI](https://img.shields.io/badge/WeatherAPI-00ADEF?style=flat&logo=weatherapi&logoColor=white)
 
- 
----
-
 ## 📂 Featured Projects
 
 | Project | Live Demo | GitHub Repo |
@@ -92,9 +78,6 @@ A live location tracking application where users can see movements on a map in r
 | 🔍 **Image Search Engine** – Uses Unsplash API to fetch images | [Live](https://image-search-engine-smoky.vercel.app/) | [Repo](https://github.com/abdulfattahnizamani/image-search-engine) |
 | 💰 **Crypto Website** – UI to display cryptocurrency prices | [Live](https://crypto-website-seven-eta.vercel.app/) | [Repo](https://github.com/abdulfattahnizamani/crypto-website) |
 | 🛍️ **Product Page** – A stylish, responsive product landing page | [Live](https://product-page-rho-one.vercel.app/) | [Repo](https://github.com/abdulfattahnizamani/product-page) |
-
----
-
 
 ## 🎯 Goals
 
@@ -114,7 +97,6 @@ A live location tracking application where users can see movements on a map in r
 ## 📬 Let’s Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/fattahniz)
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/fattahniz)
 [![Gmail](https://img.shields.io/badge/Gmail-blue?style=for-the-badge&logo=Gmail)](https://mail.google.com/mail/?view=cm&fs=1&to=abdulfattahnizamani266@gmail.com)
 
 
@@ -125,14 +107,10 @@ A live location tracking application where users can see movements on a map in r
 
 ![GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
-
 `react` `express` `nodejs` `rest-api` `websockets` `socket.io` `mongodb` `mysql` `postgresql` `fullstack` `frontend` `backend` `real-time-app` `chat-app` `live-tracker`
-
 
 ## 🙌 Thanks for Visiting!
 
 If you like my work, feel free to ⭐ **Star** my repositories and follow for updates.
-
----
 
 > *“Consistency is the key to mastery — I believe in learning by building.”*
